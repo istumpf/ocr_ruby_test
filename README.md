@@ -1,0 +1,1 @@
+# ocr_ruby_test
